@@ -1,0 +1,11 @@
+{
+	"tiles": [
+		{
+			"name": "empty",
+			"rect": [ 32, 41, 16, 16 ]
+		},{
+			"name": "empty_watered",
+			"rect": [ 50, 41, 16, 16 ]
+		}
+	]
+}
